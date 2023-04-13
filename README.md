@@ -1,2 +1,1 @@
 # Blog-STRAPI
-# Blog-STRAPI
